@@ -1,3 +1,2 @@
 # silver-spoon
-Adding this to new repository
-Test
+This is the first line
